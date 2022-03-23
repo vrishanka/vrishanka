@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vrishanka
 - 👀 I’m interested in web developement and cloud computing
-- 🌱 I’m currently learning ...net core and angular
+- 🌱 I’m currently learning ... .Net core and angular
 - 📫 How to reach me ...vrishanka2@gmail.com
 
 <!---
